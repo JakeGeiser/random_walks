@@ -1,5 +1,5 @@
 # Discrete Random Walks
-In the repo, I cover my analysis of a few different computational results of discrete random walks in 2D and 3D.
+In the repo, I cover my analysis of a few different computational results of discrete random walks in 2D.
 
 ## 2D Discrete Random Walk
 For a 2D Discrete random walk, I kept track of a variable for the x and y axes. Using numpy random, a direction was chosen from +x,-x,+y,-y. Meaning the path was allowed to overlap. The goal was to find the diffusion constant D using the following equation <x<sup>2</sup>> = q<sub>i</sub>Dt taken from <a href=http://www.life.illinois.edu/crofts/bioph354/diffusion1.html>HERE<a>. 
