@@ -26,3 +26,6 @@ StDev value of Diffusion coefficent is 0.088 lengths<sup>2</sup> s<sup>-1</sup>
 
 Mean value of final displacement is 27.674 lengths <br>
 StDev value of final displacement is 14.337 lengths
+
+## Contact Me
+Email: git@jakegeiser.us
